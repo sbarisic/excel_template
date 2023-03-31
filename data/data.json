@@ -1,0 +1,30 @@
+[
+  {
+    "TagSet": [
+      {
+        "TagName": "TEST",
+        "TagValue": "This is a test value",
+        "IsFormula": false
+      },
+      {
+        "TagName": "SUM",
+        "TagValue": 42,
+        "IsFormula": false
+      }
+    ]
+  },
+  {
+    "TagSet": [
+      {
+        "TagName": "TEST",
+        "TagValue": "This is a test value 2",
+        "IsFormula": false
+      },
+      {
+        "TagName": "SUM",
+        "TagValue": 43,
+        "IsFormula": false
+      }
+    ]
+  }
+]
